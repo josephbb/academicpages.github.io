@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Joe Bak-Coleman"
 title_separator          : "-"
 name                     : &name "Joe Bak-Coleman"
 description              : &description "Collective behavior in the Anthropocene"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : jbakcoleman
+  username               : "jbakcoleman"
 facebook:
   username               :
   app_id                 :
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Joe Bak-Coleman"
   avatar           : "bio-photo.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. Candidate in Ecology and Evolutionary Biology at Princeton studying the impact of the anthropocene on collective behavior"
   location         : "Location"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Y5000VQAAAAJ&hl=en&oi=ao"
@@ -207,14 +207,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+    #  path: ""
+  #    type: teaching
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
   # _publications
   - scope:
       path: ""
