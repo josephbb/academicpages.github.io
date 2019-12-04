@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Joe Bak-Coleman"
-  avatar           : "bio-photo.png"
+  avatar           : "bio-photo.jpg"
   bio              : "Ph.D. Candidate \n EEB, Princeton"
   location         : "Location"
   employer         :
@@ -176,13 +176,13 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
